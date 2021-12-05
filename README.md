@@ -1,10 +1,8 @@
-
 <h2 align="center">👋 Hello! I'm Zahra.</h2>
 
 - 🔭 I’m currently learning on SheCodes Workshop
 - 🌱  I’m currently learning Front-end Web development, Javascript.
 - 💬 Ask me about html, css,javascript
-
 
 ## Connect with me:
 
@@ -21,7 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThevergeOn&theme=dracula)](https://github.com/ThevergeOn/github-readme-stats)
 <br/>
-![](https://komarev.com/ghpvc/?username=ThevergeOn)
+<h2 align="left">![](https://komarev.com/ghpvc/?username=ThevergeOn)</h2>
 
 [linkedin]: https://www.linkedin.com/in/zahra-barghamadi
 [twitter]: https://twitter.com/ThevergeOn
