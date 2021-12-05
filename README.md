@@ -3,6 +3,7 @@
 - 🔭 I’m currently learning on SheCodes Workshop
 - 🌱  I’m currently learning Front-end Web development, Javascript.
 - 💬 Ask me about html, css,javascript
+- 📧 My email: barqamadizahra[at]gmail[dot]com
 
 ## Connect with me:
 
