@@ -17,7 +17,7 @@
 ---
 
 <img  align="left" alt="ThevergeOn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThevergeOn&show_icons=true&hide_border=truet&theme=dracula&count_private=true"/>
-<span style="margin-bottom: 30px;"></span>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThevergeOn&theme=dracula)](https://github.com/ThevergeOn/github-readme-stats)
 <br/>
