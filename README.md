@@ -20,7 +20,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThevergeOn&theme=dracula)](https://github.com/ThevergeOn/github-readme-stats)
 <br/>
 <br/>
-![](https://komarev.com/ghpvc/?username=ThevergeOn)"
+<br/>
+
+![](https://komarev.com/ghpvc/?username=ThevergeOn)
 
 [linkedin]: https://www.linkedin.com/in/zahra-barghamadi
 [twitter]: https://twitter.com/ThevergeOn
