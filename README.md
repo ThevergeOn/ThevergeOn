@@ -7,27 +7,21 @@
 
 ## Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]("https://www.linkedin.com/in/zahra-barghamadi")
+
 
 <br />
 <br />
 
 ---
-
-<!-- <img  align="left" alt="ThevergeOn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThevergeOn&show_icons=true&hide_border=truet&theme=dracula&count_private=true"/>
- -->
- ![](https://github-readme-stats.vercel.app/api?username=ThevergeOn&show_icons=true&theme=nightowl)
+![](https://github-readme-stats.vercel.app/api?username=ThevergeOn&show_icons=true&theme=nightowl)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThevergeOn&theme=dracula)](https://github.com/ThevergeOn/github-readme-stats)
 <br/>
 <br/>
 <br/>
-
 ![](https://komarev.com/ghpvc/?username=ThevergeOn)
 
-[linkedin]: https://www.linkedin.com/in/zahra-barghamadi
-[twitter]: https://twitter.com/ThevergeOn
-[instagram]: https://www.instagram.com/zahrabarqamadi/
+<!-- [linkedin]: https://www.linkedin.com/in/zahra-barghamadi -->
 ![](https://hit.yhype.me/github/profile?user_id=78968279)
