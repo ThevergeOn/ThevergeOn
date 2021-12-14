@@ -8,7 +8,7 @@
 ## Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/zahra-barghamadi
+
 <br />
 <br />
 
@@ -21,5 +21,5 @@
 <br/>
 ![](https://komarev.com/ghpvc/?username=ThevergeOn)
 
-
+[linkedin]: https://www.linkedin.com/in/zahra-barghamadi
 ![](https://hit.yhype.me/github/profile?user_id=78968279)
