@@ -1,7 +1,6 @@
 <h2 align="center">👋 Hello! I'm Zahra.</h2>
 
-- 🔭 I’m currently learning on SheCodes Workshop
-- 🌱  I’m currently learning Front-end Web development, Javascript.
+- 🔭 I’m currently learning on SheCodes Workshop Front-end Web development, Javascript and Html-Css
 - 💬 Ask me about html, css,javascript
 - 📧 My email: [barqamadizahra[at]gmail[dot]com](mailto:barqamadizahra@gmail.com)
 
@@ -11,7 +10,6 @@
 
 <br />
 <br />
-
 ---
 ![](https://github-readme-stats.vercel.app/api?username=ThevergeOn&show_icons=true&theme=nightowl)
 
