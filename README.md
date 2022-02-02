@@ -14,6 +14,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=ThevergeOn&show_icons=true&theme=nightowl)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThevergeOn&theme=dracula)](https://github.com/ThevergeOn/github-readme-stats)
+
+
+![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=ThevergeOn&theme=radical&include_all_commits=true&count_private=true)
 <br/>
 <br/>
 <br/>
