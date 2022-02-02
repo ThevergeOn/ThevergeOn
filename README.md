@@ -10,10 +10,11 @@
 
 - 📫 How to reach me **barqamadizahra@gmail.com**
 
+- 📄 &nbsp;Please have a look at my [LinkedIn](https://linkedin.com/in/zahra-barghamadi/) for more details about me.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thevergeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thevergeon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zahra-barghamadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahra-barghamadi" height="30" width="40" /></a>
 <a href="https://instagram.com/thevergoen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thevergoen" height="30" width="40" /></a>
 </p>
 
