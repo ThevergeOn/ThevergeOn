@@ -19,6 +19,8 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+
+</br>
 ### 🛠 &nbsp;Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
@@ -35,6 +37,8 @@
 
 
 
+
+</br>
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
 <p align="center">
 <a href="https://github.com/Thevergeon">
