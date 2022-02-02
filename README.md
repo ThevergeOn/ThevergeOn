@@ -4,18 +4,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevergeon&label=Profile%20views&color=0e75b6&style=flat" alt="thevergeon" /> </p>
 <h3>👩‍💻 About Me : </h3>
 
-- 🌱 I’m currently learning **React ,TypeScript ,Git**
+- 🌱 I’m currently learning **React ,TypeScript ,Git** .
 
-- 💬 Ask me about **Html ,CSS(Sass) ,JavaScript , jQuery**
+- 💬 Ask me about **Html ,CSS(Sass) ,JavaScript , jQuery** .
 
-- 📫 How to reach me **barqamadizahra@gmail.com**
+- 📫 How to reach me **barqamadizahra@gmail.com** .
 
-- 📄 &nbsp;Please have a look at my [LinkedIn](https://linkedin.com/in/zahra-barghamadi/) for more details about me.
+- 📄 &nbsp; If you would like to know more about me, please look at my [LinkedIn](https://linkedin.com/in/zahra-barghamadi/) PAGE.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thevergeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thevergeon" height="30" width="40" /></a>
-<a href="https://instagram.com/thevergoen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thevergoen" height="30" width="40" /></a>
+
 </p>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
