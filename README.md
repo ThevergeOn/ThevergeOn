@@ -10,12 +10,11 @@
 
 - 📫 How to reach me **barqamadizahra@gmail.com** .
 
-- 📄 &nbsp; If you would like to know more about me, please look at my [LinkedIn](https://linkedin.com/in/zahra-barghamadi/) PAGE.
+- 📄 &nbsp; If you would like to know more about me, please look at my [LinkedIn](https://linkedin.com/in/zahra-barghamadi/) page.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thevergeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thevergeon" height="30" width="40" /></a>
-
 </p>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
