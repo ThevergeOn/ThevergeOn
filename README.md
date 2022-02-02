@@ -33,13 +33,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevergeon&show_icons=true&locale=en" alt="thevergeon" /></p>
-
-
+<p align="center">
+<a href="https://github.com/art1373">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thevergeon_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thevergeon&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <h2>🔒 Github Streak:</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevergeon&" alt="thevergeon" /></p>
 
-<h3>📊 Most Used Languages:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevergeon&show_icons=true&locale=en&layout=compact" alt="thevergeon" /></p>
+<!-- <h3>📊 Most Used Languages:</h3>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevergeon&show_icons=true&locale=en&layout=compact" alt="thevergeon" /></p> -->
 
 
