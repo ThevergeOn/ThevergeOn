@@ -25,6 +25,6 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevergeon&show_icons=true&locale=en" alt="thevergeon" /></p>
 
-<p><imgalign="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevergeon&show_icons=true&locale=en&layout=compact" alt="thevergeon" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevergeon&show_icons=true&locale=en&layout=compact" alt="thevergeon" /></p>
 
 
