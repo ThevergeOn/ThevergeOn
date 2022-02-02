@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevergeon&label=Profile%20views&color=0e75b6&style=flat" alt="thevergeon" /> </p>
-<h3>👩‍💻 About Me :</h3>
+<h3>👩‍💻 About Me : </h3>
+
 - 🌱 I’m currently learning **React ,TypeScript ,Git**
 
 - 💬 Ask me about **Html ,CSS(Sass) ,JavaScript , jQuery**
@@ -16,6 +17,7 @@
 <a href="https://instagram.com/thevergoen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thevergoen" height="30" width="40" /></a>
 </p>
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ### 🛠 &nbsp;Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
