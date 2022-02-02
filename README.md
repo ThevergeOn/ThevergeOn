@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevergeon&show_icons=true&locale=en&layout=compact" alt="thevergeon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevergeon&show_icons=true&locale=en" alt="thevergeon" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevergeon&show_icons=true&locale=en" alt="thevergeon" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevergeon&" alt="thevergeon" /></p>
