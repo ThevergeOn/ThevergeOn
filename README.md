@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zahra Barghamadi</h1>
 <h3 align="center">A passionate frontend developer</h3>
-### 👨🏻‍💻 &nbsp;About Me
+<!-- ### 👨🏻‍💻 &nbsp;About Me -->
+### 🛠 &nbsp;Languages and Tools:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevergeon&label=Profile%20views&color=0e75b6&style=flat" alt="thevergeon" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thevergeon" alt="thevergeon" /></a> </p> -->
