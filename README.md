@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zahra Barghamadi</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<h3>👩‍💻 About Me</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thevergeon&label=Profile%20views&color=0e75b6&style=flat" alt="thevergeon" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thevergeon&label=Profile%20views&color=0e75b6&style=flat" alt="thevergeon" /> </p>
+<h3>👩‍💻 About Me:</h3>
 - 🌱 I’m currently learning **React ,TypeScript ,Git**
 
 - 💬 Ask me about **Html ,CSS(Sass) ,JavaScript , jQuery**
@@ -19,7 +19,7 @@
 ### 🛠 &nbsp;Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
