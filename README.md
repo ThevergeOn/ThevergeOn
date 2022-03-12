@@ -49,7 +49,7 @@
 <p align="center">
 <a href="https://github.com/Thevergeon">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thevergeon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thevergeon&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thevergeon&layout=compact&langs_count=10&hide=html&theme=algolia"/>
 </a>
 </p>
 <h2>🔒 Github Streak:</h2>
