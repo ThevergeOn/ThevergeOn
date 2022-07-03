@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevergeon&label=Profile%20views&color=0e75b6&style=flat" alt="thevergeon" /> </p>
 <h3>👩‍💻 About Me : </h3>
 
-- 🌱 I’m currently learning **React ,TypeScript ,Git** .
+- 🌱 I’m currently learning **React ,Vue ,TypeScript ,Git** .
 
 - 💬 Ask me about **Html ,CSS(Sass) ,JavaScript , jQuery** .
 
@@ -36,6 +36,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
