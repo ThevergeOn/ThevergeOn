@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **barqamadizahra@gmail.com** .
 
-- 📄 &nbsp; If you would like to know more about me, please look at my [LinkedIn](https://linkedin.com/in/zahra-barghamadi/) page.
+- 📄 &nbsp; If you would like to know more about me, please look at my [LinkedIn](https://www.linkedin.com/in/zara-barghamadi/) page.
 
 
 <!-- <h3 align="left">Connect with me:</h3>
